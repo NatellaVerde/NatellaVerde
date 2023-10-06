@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JS for Node.js
 - 🔭 I'm currently looking for part-time, full-time projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/natalia-zhelonkina/">LinkedIn</a>
-- 🌱 My previous GitHub account:  <a href="https://github.com/natella2902">Natella2902</a>
+- 🌱 My previous GitHub account from 2019.. :  <a href="https://github.com/natella2902">Natella2902</a>
 - ⚡ Fun fact: My birthday is on February 29th
 <br>
 <div>
